@@ -8,7 +8,6 @@ Download the project for trying it on Unity, or download a ready to use executab
 
 Some Screenshots:
 
-<<<<<<< HEAD
 ![image](https://img.itch.zone/aW1hZ2UvMjQzMjEzMS8xNDY2MzExNi5wbmc=/original/lqHiUK.png)
 
 ![image](https://img.itch.zone/aW1hZ2UvMjQzMjEzMS8xNDY2MzA1OS5wbmc=/original/jmGLXj.png)
@@ -17,10 +16,4 @@ Some Screenshots:
 
 ![image](https://img.itch.zone/aW1hZ2UvMjQzMjEzMS8xNDY2MzA2MC5wbmc=/original/0SZOC2.png)
 
-=======
-![image](https://img.itch.zone/aW1hZ2UvMjQzMjEzMS8xNDY2MzA1OS5wbmc=/original/jmGLXj.png)
-![image](https://img.itch.zone/aW1hZ2UvMjQzMjEzMS8xNDY2MzA2MC5wbmc=/original/0SZOC2.png)
-![image](https://img.itch.zone/aW1hZ2UvMjQzMjEzMS8xNDY2MzA2MC5wbmc=/original/0SZOC2.png)
-![image](https://img.itch.zone/aW1hZ2UvMjQzMjEzMS8xNDY2MzExNi5wbmc=/original/lqHiUK.png)
->>>>>>> 1916a8a6e15a3d6884c698dac7da64345b417e70
 ![image](https://img.itch.zone/aW1hZ2UvMjQzMjEzMS8xNDY2MzEwMy5wbmc=/original/dIYQnL.png)
